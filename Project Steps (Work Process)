@@ -1,0 +1,27 @@
+Step 1: Data Import and Preprocessing
+------Import the dataset into MySQL for initial querying and exploration.
+------Load tables for electric vehicle sales by maker, sales by state, and the date dimension table.
+------Ensure relationships between tables are correctly set for analysis.
+
+Step 2: SQL Analysis
+------Write SQL queries to extract key data points for each task:
+-------Total sales for each fiscal year.
+-------Top and bottom makers based on sales volume for 2-wheelers.
+-------State-wise penetration rates for EVs.
+
+Step 3: Calculating Key Metrics
+------Use DAX measures in Power BI to calculate important KPIs like:
+------Total EV Sales (for both 2-wheelers and 4-wheelers).
+------CAGR for top makers and states.
+------Penetration rates for each year.
+------Revenue growth from 2022 to 2024.
+
+Step 4: Visualization and Dashboard Creation
+------Create visualizations in Power BI:
+------Use KPI cards for key metrics like total EV sales, CAGR, and penetration rates.
+------Build line charts for quarterly sales trends and bar charts for top states.
+------Create a map visualization for geographical insights on EV penetration.
+
+Step 5: Forecasting Future Sales
+------Use historical data and CAGR to project EV sales for 2030 for the top 10 states.
+------Forecast future trends based on growth patterns observed in the 2022–2024 period.
