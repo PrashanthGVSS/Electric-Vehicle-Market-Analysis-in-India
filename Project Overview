@@ -1,4 +1,5 @@
-This project involves an analysis of electric vehicle sales data across various states in India, divided into 2-wheeler and 4-wheeler segments. The analysis focuses on understanding the growth trends, identifying the top-performing makers and states, and estimating the revenue growth between 2022 and 2024. The primary goals were:
+This project involves an analysis of electric vehicle sales data across various states in India, divided into 2-wheeler and 4-wheeler segments. 
+The analysis focuses on understanding the growth trends, identifying the top-performing makers and states, and estimating the revenue growth between 2022 and 2024. The primary goals were:
 
 ----Analyze the top and bottom makers in terms of 2-wheeler EV sales for the fiscal years 2023 and 2024.
 ----Identify the top 5 states with the highest EV penetration rates.
